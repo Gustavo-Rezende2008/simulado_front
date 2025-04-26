@@ -1,0 +1,19 @@
+*{ margin:0;}
+
+table{width: 100%; height: 100vh;}
+
+#linha1{height: 160px;}
+#linha2{height: 160px;}
+#linha3{height: 200px;}
+#linha4{height: 60px;}
+#linha5{height: 60px;}
+
+.td1{width: 20%;}
+.td2{width: 80%;}
+.td3{width: 15%;}
+.td4{width: 22%;}
+.td5{width: ;}
+.td6{width: 15%;}
+.td7{width: 5%;}
+.td8{width: 22%;}
+.td9{width: ;}
